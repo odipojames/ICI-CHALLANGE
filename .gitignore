@@ -1,0 +1,15 @@
+node_modules/
+ui/coverage/
+server/coverage/
+.next/
+ui/.env
+server/.env
+tests/.env
+.env
+vendor/
+.idea/
+yarn.lock
+yarn-error.log
+server/.env
+.DS_Store
+sqltools_*.log
